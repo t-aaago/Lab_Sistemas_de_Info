@@ -1,0 +1,11 @@
+vendor_name = ModelSim
+source_file = 1, C:/altera/13.1/ULTIMO PROJETO (DIONNE)/Subtrator1bit.bdf
+source_file = 1, C:/altera/13.1/ULTIMO PROJETO (DIONNE)/db/Subtrator1bit.cbx.xml
+design_name = Subtrator1bit
+instance = comp, \S~output\, S~output, Subtrator1bit, 1
+instance = comp, \Tout~output\, Tout~output, Subtrator1bit, 1
+instance = comp, \Tin~input\, Tin~input, Subtrator1bit, 1
+instance = comp, \A~input\, A~input, Subtrator1bit, 1
+instance = comp, \B~input\, B~input, Subtrator1bit, 1
+instance = comp, \inst1~0\, inst1~0, Subtrator1bit, 1
+instance = comp, \inst7~0\, inst7~0, Subtrator1bit, 1
